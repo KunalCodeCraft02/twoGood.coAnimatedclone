@@ -1,0 +1,6 @@
+1 ) this website has best image animation cursor and locomotive animation 
+    and well knowlage of flex-wrap 
+
+2 ) agar humne #main div prr locomotive scroll lagaya ho to vo kaam 
+    nahi karega but hame nav fixed chahiyeisiliye hamne navwala part 
+    #main se bahar body me banaya
